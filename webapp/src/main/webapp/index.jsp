@@ -30,7 +30,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-  <h2>with auto trig</h2>
+  <h2>with Poll SCM</h2>
    <h1> Thankyou, Happy Learning  </h1>
 
   
